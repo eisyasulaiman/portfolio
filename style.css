@@ -213,6 +213,12 @@ section {
   height: 2rem;
 }
 
+.hover-highlight:hover {
+  cursor: pointer;
+  background: rgb(53, 53, 53);
+  color: white;
+}
+
 /* BUTTONS */
 
 .btn-container {
